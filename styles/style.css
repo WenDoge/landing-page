@@ -144,6 +144,7 @@ body *{
     z-index: 2;
 }
 .projects-title{
+    margin-top: 176px;
     letter-spacing: -0.07em;
     margin-bottom: 34px;
     font-size: 27px;
@@ -648,8 +649,8 @@ input[name="r"] {
 }
 .fantasies-title{
     letter-spacing: normal;
-    padding-top: 138px;
     margin-bottom: 47px;
+    margin-top: 138px;
 }
 .fantasies-ul{
     list-style: none;
